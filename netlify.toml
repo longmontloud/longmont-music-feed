@@ -1,9 +1,6 @@
 [build]
   functions = "functions"
-  command = ""
-
-[functions]
-  node_bundler = "esbuild"
+  command = "echo building"
 
 [functions.python_version]
   version = "3.10"
