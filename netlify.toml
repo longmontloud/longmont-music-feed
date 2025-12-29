@@ -1,0 +1,6 @@
+[build]
+  functions = "functions"
+  command = ""
+
+[functions]
+  python_version = "3.10"
