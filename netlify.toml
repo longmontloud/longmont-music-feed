@@ -1,6 +1,5 @@
 [functions]
-  directory = "functions"
-  node_bundler = "esbuild"
+  directory = "netlify/functions"
 
 [functions.python_version]
   version = "3.10"
