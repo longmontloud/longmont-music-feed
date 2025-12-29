@@ -3,5 +3,7 @@
   command = ""
 
 [functions]
-  [functions.python_version]
-    version = "3.10"
+  node_bundler = "esbuild"
+
+[functions.python_version]
+  version = "3.10"
