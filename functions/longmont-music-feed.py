@@ -9,7 +9,7 @@ def handler(event, context):
 
     MUSIC_KEYWORDS = [
         "band", "live music", "concert", "jazz", "acoustic", "set",
-        "performance", "singer", "songwriter", "dj", "bluegrass"
+        "performance", "singer", "songwriter", "dj", "bluegrass", "punk", "rock", "metal", "R&B", "soul", "hip-hop", "rap", "electronic"
     ]
 
     EXCLUDE_KEYWORDS = [
