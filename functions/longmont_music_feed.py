@@ -4,6 +4,8 @@ from datetime import datetime
 import pytz
 import re
 
+print("Function loaded")
+
 def handler(event, context):
     URL = "https://www.downtownlongmont.com/events/calendar"
 

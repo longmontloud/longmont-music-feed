@@ -2,5 +2,8 @@
   functions = "functions"
   command = "echo building"
 
+[functions]
+  included_files = ["functions/longmont_music_feed.py"]
+
 [functions.python_version]
   version = "3.10"
