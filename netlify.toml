@@ -3,4 +3,5 @@
   command = ""
 
 [functions]
-  python_version = "3.10"
+  [functions.python_version]
+    version = "3.10"
